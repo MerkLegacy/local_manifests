@@ -40,6 +40,8 @@
 
   <!-- CyanogenMod projects -->
   <project name="android_hardware_sony_DASH" path="hardware/sony/DASH" remote="cm" revision="cm-12.0" />
+  
+  <remove-project name="SlimRoms/hardware_ti_wlan" />
   <project name="android_hardware_ti_wlan" path="hardware/ti/wlan" remote="cm" revision="cm-12.0" />
 
   <!-- AOSP projects-->
