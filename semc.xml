@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="MerkLegacy/local_manifests" path="vendor/extra" remote="ml" />
+  <project name="local_manifests" path="vendor/extra" remote="ml" />
   
   <!-- external Github remotes for MerkMod-->
   <remote name="omnirom" fetch="https://github.com/omnirom" />
