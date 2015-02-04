@@ -16,7 +16,7 @@
   <project name="android_device_semc_mogami-common" path="device/semc/mogami-common" remote="ml" revision="lp-caf" />
   <project name="android_device_semc_anzu" path="device/semc/anzu" remote="ml" revision="lp-caf" />
   <!-- <project name="LegacyXperia/android_device_semc_coconut" path="device/semc/coconut" /> -->
-  <!-- <project name="LegacyXperia/android_device_semc_haida" path="device/semc/haida" /> -->
+  <project name="android_device_semc_haida" path="device/semc/haida" remote="ml" revision="lp-caf" />
   <!-- <project name="LegacyXperia/android_device_semc_hallon" path="device/semc/hallon" /> -->
   <!-- <project name="LegacyXperia/android_device_semc_iyokan" path="device/semc/iyokan" /> -->
   <!-- <project name="LegacyXperia/android_device_semc_mango" path="device/semc/mango" /> -->
