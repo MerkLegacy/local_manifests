@@ -10,10 +10,10 @@
   <remote name="ml" fetch="https://github.com/MerkLegacy" />
 
   <!-- LegacyXperia projects -->
-  <project name="MerkLegacy/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" />
+  <project name="MerkLegacy/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="lp-caf" />
 
-  <project name="MerkLegacy/android_device_semc_mogami-common" path="device/semc/mogami-common" />
-  <project name="MerkLegacy/android_device_semc_anzu" path="device/semc/anzu" />
+  <project name="MerkLegacy/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="lp-caf" />
+  <project name="MerkLegacy/android_device_semc_anzu" path="device/semc/anzu" revision="lp-caf" />
   <!-- <project name="LegacyXperia/android_device_semc_coconut" path="device/semc/coconut" /> -->
   <!-- <project name="LegacyXperia/android_device_semc_haida" path="device/semc/haida" /> -->
   <!-- <project name="LegacyXperia/android_device_semc_hallon" path="device/semc/hallon" /> -->
@@ -27,18 +27,18 @@
   <!-- <project name="LegacyXperia/android_device_semc_phoenix" path="device/semc/phoenix" /> -->
   <!-- <project name="LegacyXperia/android_device_semc_zeus" path="device/semc/zeus" /> -->
 
-  <project name="MerkLegacy/android_kernel_semc_msm7x30" path="kernel/semc/msm7x30" />
+  <project name="MerkLegacy/android_kernel_semc_msm7x30" path="kernel/semc/msm7x30" revision="lp-caf" />
 
-  <project name="MerkLegacy/proprietary_vendor_semc" path="vendor/semc" />
+  <project name="MerkLegacy/proprietary_vendor_semc" path="vendor/semc" revision="lp-caf" />
 
-  <project name="MerkLegacy/android_device_qcom_msm7x30-common" path="device/qcom/msm7x30-common" />
+  <project name="MerkLegacy/android_device_qcom_msm7x30-common" path="device/qcom/msm7x30-common" revision="lp-caf" />
 
   <project name="LegacyXperia/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm7x30" revision="cm-12.0-caf-7x30" />
   <project name="LegacyXperia/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm7x30" revision="cm-12.0-caf-legacy" />
   <project name="LegacyXperia/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm7x30" revision="cm-12.0-caf-legacy" />
 
   <!-- CyanogenMod projects -->
-  <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" />
+  <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" revision="cm-12.0" />
 
   <!-- AOSP projects-->
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
