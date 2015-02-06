@@ -43,6 +43,9 @@
   
   <remove-project name="SlimRoms/hardware_ti_wlan" />
   <project name="android_hardware_ti_wlan" path="hardware/ti/wlan" remote="cm" revision="cm-12.0" />
+  
+  <remove-project name="MerkRoms/bootable_recovery" />
+  <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="cm" revision="cm-12.0" />
 
   <!-- AOSP projects-->
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
